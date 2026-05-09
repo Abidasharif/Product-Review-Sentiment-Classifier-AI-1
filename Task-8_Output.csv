@@ -1,0 +1,1001 @@
+ReviewText,predicted_sentiment,confidence_score
+fantastic. wonderful experience.,Positive,0.9848031997680664
+broke easily. awful.,Negative,0.9311348795890808
+met expectations. five stars.,Positive,0.8826636672019958
+very satisfied. wonderful experience.,Positive,0.9855280518531799
+worst purchase. one star.,Negative,0.9364019632339478
+some pros and cons. works perfectly.,Positive,0.5933696031570435
+highly recommend. amazing features.,Positive,0.9772198796272278
+waste of money. poor quality.,Negative,0.9281527400016785
+love this product. highly recommend. nothing special.,Positive,0.9810056686401367
+poor quality. worst purchase.,Negative,0.9309725165367126
+awful. customer service was bad. some pros and cons.,Negative,0.9469636082649231
+fantastic. best purchase ever.,Positive,0.9825860261917114
+wonderful experience. love this product. some pros and cons.,Positive,0.9852693676948547
+broke easily. does not work.,Negative,0.8529420495033264
+decent for the price. worst purchase.,Negative,0.9242864847183228
+awful. one star.,Negative,0.9475889801979065
+exceeded expectations. works perfectly.,Positive,0.8897039890289307
+best purchase ever. easy to use.,Positive,0.9812871813774109
+works as expected. easy to use.,Positive,0.8484674692153931
+difficult to use. difficult to use.,Negative,0.8242955207824707
+neither good nor bad. very satisfied.,Positive,0.9526671767234802
+amazing features. great value.,Positive,0.9792492985725403
+exceeded expectations. best purchase ever. some pros and cons.,Positive,0.9820656180381775
+would not recommend. bad experience.,Negative,0.91175377368927
+it's okay. five stars.,Positive,0.902573823928833
+it's okay. five stars.,Positive,0.902573823928833
+broke easily. terrible product.,Negative,0.9371665716171265
+love this product. works perfectly.,Positive,0.9865072965621948
+very satisfied. easy to use.,Positive,0.981262743473053
+could be better. excellent quality.,Positive,0.9186102151870728
+met expectations. does not work.,Negative,0.8201099038124084
+best purchase ever. works perfectly.,Positive,0.9810278415679932
+easy to use. excellent quality.,Positive,0.9648914337158203
+average product. customer service was bad.,Negative,0.9426034688949585
+worst purchase. missing features.,Negative,0.9375503659248352
+customer service was bad. one star.,Negative,0.9402266144752502
+works as expected. very disappointed.,Negative,0.9217283129692078
+awful. would not recommend.,Negative,0.9325792193412781
+amazing features. wonderful experience. average product.,Positive,0.9789233803749084
+would not recommend. terrible product. decent for the price.,Negative,0.9322259426116943
+love this product. five stars.,Positive,0.9834192991256714
+exceeded expectations. excellent quality.,Positive,0.9692071676254272
+waste of money. one star.,Negative,0.9155554175376892
+it's okay. five stars.,Positive,0.902573823928833
+very satisfied. works perfectly.,Positive,0.981231153011322
+works perfectly. five stars.,Positive,0.9681842923164368
+works perfectly. excellent quality.,Positive,0.9782046675682068
+very disappointed. difficult to use. average product.,Negative,0.9386876225471497
+broke easily. very disappointed.,Negative,0.9115735292434692
+wonderful experience. five stars.,Positive,0.9821494221687317
+terrible product. awful.,Negative,0.9393274188041687
+five stars. excellent quality. neither good nor bad.,Positive,0.9452075958251953
+met expectations. very disappointed.,Negative,0.8922191858291626
+broke easily. one star.,Neutral,0.612832248210907
+highly recommend. very satisfied. nothing special.,Positive,0.9653372764587402
+average product. customer service was bad.,Negative,0.9426034688949585
+neither good nor bad. best purchase ever.,Positive,0.9772495031356812
+best purchase ever. best purchase ever. average product.,Positive,0.9810261130332947
+bad experience. difficult to use.,Negative,0.9337193965911865
+best purchase ever. works perfectly.,Positive,0.9810278415679932
+waste of money. terrible product.,Negative,0.9431846737861633
+best purchase ever. great value.,Positive,0.9782811403274536
+very disappointed. waste of money.,Negative,0.9317206740379333
+love this product. fantastic.,Positive,0.9850625991821289
+exceeded expectations. highly recommend.,Positive,0.9764852523803711
+broke easily. waste of money.,Negative,0.8564450144767761
+one star. bad experience. average product.,Negative,0.9355244040489197
+love this product. best purchase ever.,Positive,0.9851873517036438
+does not work. missing features.,Negative,0.9010792374610901
+awful. would not recommend.,Negative,0.9325792193412781
+great value. amazing features.,Positive,0.9781293869018555
+average product. fantastic.,Positive,0.917759895324707
+easy to use. amazing features. it's okay.,Positive,0.9771356582641602
+bad experience. broke easily. nothing special.,Negative,0.912291407585144
+amazing features. easy to use.,Positive,0.9849564433097839
+works perfectly. five stars.,Positive,0.9681842923164368
+neither good nor bad. difficult to use.,Negative,0.8363473415374756
+easy to use. best purchase ever.,Positive,0.9830233454704285
+five stars. amazing features.,Positive,0.977318286895752
+wonderful experience. fantastic. average product.,Positive,0.9803572297096252
+decent for the price. fantastic.,Positive,0.9643363952636719
+love this product. easy to use.,Positive,0.9854766726493835
+works perfectly. wonderful experience.,Positive,0.9859473705291748
+neither good nor bad. wonderful experience.,Positive,0.9774036407470703
+best purchase ever. highly recommend. some pros and cons.,Positive,0.9797810316085815
+customer service was bad. missing features.,Negative,0.9366459846496582
+very disappointed. worst purchase. decent for the price.,Negative,0.9293487071990967
+works perfectly. highly recommend. some pros and cons.,Positive,0.9468709230422974
+difficult to use. missing features.,Negative,0.8791077733039856
+waste of money. awful. nothing special.,Negative,0.9292721748352051
+one star. one star.,Positive,0.5330096483230591
+amazing features. love this product.,Positive,0.9846200942993164
+works perfectly. wonderful experience.,Positive,0.9859473705291748
+could be better. broke easily.,Negative,0.6526127457618713
+love this product. excellent quality.,Positive,0.9832395911216736
+missing features. very disappointed.,Negative,0.9157261252403259
+missing features. does not work. decent for the price.,Negative,0.903277575969696
+very satisfied. works perfectly.,Positive,0.981231153011322
+best purchase ever. works perfectly. some pros and cons.,Positive,0.9754301905632019
+would not recommend. customer service was bad.,Negative,0.9285643696784973
+difficult to use. worst purchase.,Negative,0.9443374276161194
+it's okay. waste of money.,Negative,0.7543991804122925
+neither good nor bad. waste of money.,Negative,0.8438146710395813
+very disappointed. one star.,Negative,0.9213939309120178
+broke easily. does not work.,Negative,0.8529420495033264
+fantastic. five stars. works as expected.,Positive,0.9851743578910828
+awful. terrible product.,Negative,0.9410691857337952
+excellent quality. very satisfied.,Positive,0.9782717823982239
+amazing features. easy to use. met expectations.,Positive,0.9813843965530396
+works perfectly. works perfectly.,Positive,0.9313841462135315
+waste of money. waste of money.,Negative,0.9022946357727051
+very disappointed. terrible product.,Negative,0.9316170811653137
+love this product. best purchase ever.,Positive,0.9851873517036438
+very disappointed. awful.,Negative,0.929617166519165
+fantastic. love this product.,Positive,0.9838607311248779
+fantastic. excellent quality.,Positive,0.9784523844718933
+neither good nor bad. one star.,Positive,0.7581068277359009
+amazing features. easy to use.,Positive,0.9849564433097839
+very disappointed. worst purchase.,Negative,0.9307680726051331
+missing features. would not recommend.,Negative,0.8746798038482666
+would not recommend. very disappointed.,Negative,0.9058263897895813
+missing features. waste of money.,Negative,0.8696599006652832
+bad experience. very disappointed.,Negative,0.9233901500701904
+very disappointed. very disappointed. nothing special.,Negative,0.9237232804298401
+could be better. awful.,Negative,0.8918625116348267
+would not recommend. very disappointed.,Negative,0.9058263897895813
+could be better. wonderful experience.,Positive,0.978046715259552
+very satisfied. highly recommend.,Positive,0.9812191128730774
+terrible product. worst purchase.,Negative,0.9346452951431274
+love this product. very satisfied.,Positive,0.9856326580047607
+one star. poor quality.,Negative,0.9310132265090942
+waste of money. missing features.,Negative,0.8866443037986755
+it's okay. one star.,Positive,0.7871260046958923
+exceeded expectations. amazing features. works as expected.,Positive,0.9818609952926636
+met expectations. wonderful experience.,Positive,0.9812639951705933
+decent for the price. works perfectly.,Positive,0.9247341156005859
+some pros and cons. missing features.,Neutral,0.5861985683441162
+terrible product. missing features.,Negative,0.944889485836029
+does not work. very disappointed.,Negative,0.921674370765686
+it's okay. difficult to use.,Neutral,0.5519737005233765
+some pros and cons. great value.,Positive,0.7494954466819763
+average product. broke easily.,Negative,0.9048906564712524
+would not recommend. bad experience. could be better.,Negative,0.920599639415741
+highly recommend. five stars.,Positive,0.9671767354011536
+decent for the price. customer service was bad.,Negative,0.9247692823410034
+one star. worst purchase.,Negative,0.9376009702682495
+awful. one star.,Negative,0.9475889801979065
+fantastic. great value.,Positive,0.9789336919784546
+missing features. very disappointed. could be better.,Negative,0.9266587495803833
+waste of money. worst purchase.,Negative,0.9372063875198364
+does not work. awful.,Negative,0.9446153044700623
+would not recommend. missing features. some pros and cons.,Negative,0.8732739090919495
+met expectations. excellent quality.,Positive,0.9523727893829346
+works as expected. amazing features.,Positive,0.9830122590065002
+love this product. wonderful experience.,Positive,0.9848904013633728
+difficult to use. terrible product.,Negative,0.9456108212471008
+bad experience. awful.,Negative,0.932417631149292
+does not work. broke easily.,Negative,0.9048422574996948
+fantastic. works perfectly. works as expected.,Positive,0.9813003540039062
+poor quality. customer service was bad.,Negative,0.9384785890579224
+easy to use. works perfectly.,Positive,0.9651274681091309
+terrible product. difficult to use.,Negative,0.948040783405304
+difficult to use. does not work. could be better.,Negative,0.9370777010917664
+terrible product. one star. average product.,Negative,0.9440559148788452
+nothing special. waste of money.,Negative,0.823176920413971
+difficult to use. waste of money. works as expected.,Negative,0.8854171633720398
+excellent quality. love this product.,Positive,0.9832227826118469
+easy to use. easy to use. decent for the price.,Positive,0.905808687210083
+five stars. works perfectly.,Positive,0.937393307685852
+fantastic. exceeded expectations.,Positive,0.9832431674003601
+missing features. awful.,Negative,0.9104069471359253
+customer service was bad. would not recommend. average product.,Negative,0.9390862584114075
+great value. best purchase ever.,Positive,0.9788482189178467
+very disappointed. worst purchase.,Negative,0.9307680726051331
+amazing features. very satisfied.,Positive,0.9818275570869446
+worst purchase. bad experience.,Negative,0.9346755146980286
+excellent quality. five stars.,Positive,0.9703913331031799
+does not work. worst purchase. could be better.,Negative,0.940100908279419
+met expectations. fantastic.,Positive,0.9735968708992004
+works perfectly. works perfectly.,Positive,0.9313842058181763
+worst purchase. poor quality. some pros and cons.,Negative,0.9413814544677734
+broke easily. awful.,Negative,0.9311348795890808
+met expectations. does not work.,Negative,0.8201099038124084
+best purchase ever. amazing features.,Positive,0.9819367527961731
+love this product. easy to use.,Positive,0.9854766726493835
+broke easily. worst purchase. neither good nor bad.,Negative,0.9184930324554443
+worst purchase. difficult to use. decent for the price.,Negative,0.9420093894004822
+broke easily. difficult to use.,Negative,0.8690469861030579
+best purchase ever. easy to use. could be better.,Positive,0.9784033298492432
+works as expected. awful.,Negative,0.934282124042511
+awful. terrible product.,Negative,0.9410691857337952
+bad experience. worst purchase.,Negative,0.929233729839325
+customer service was bad. broke easily.,Negative,0.9446099996566772
+works perfectly. exceeded expectations.,Positive,0.9757896661758423
+great value. five stars.,Positive,0.9703922271728516
+highly recommend. great value.,Positive,0.9712140560150146
+awful. customer service was bad.,Negative,0.946749746799469
+terrible product. waste of money.,Negative,0.9460489153862
+broke easily. worst purchase.,Negative,0.9323683977127075
+fantastic. exceeded expectations.,Positive,0.9832431674003601
+would not recommend. broke easily.,Negative,0.8950387835502625
+excellent quality. amazing features. it's okay.,Positive,0.9713728427886963
+waste of money. very disappointed.,Negative,0.9253210425376892
+worst purchase. terrible product. works as expected.,Negative,0.9408340454101562
+awful. does not work.,Negative,0.9419409036636353
+highly recommend. great value. some pros and cons.,Positive,0.9550911784172058
+some pros and cons. excellent quality.,Positive,0.7609164118766785
+fantastic. amazing features.,Positive,0.9820507764816284
+met expectations. great value.,Positive,0.9446657299995422
+one star. bad experience.,Negative,0.9311834573745728
+wonderful experience. works perfectly.,Positive,0.9860959649085999
+very disappointed. awful.,Negative,0.929617166519165
+amazing features. wonderful experience.,Positive,0.9823375940322876
+broke easily. very disappointed. decent for the price.,Negative,0.8574991226196289
+neither good nor bad. exceeded expectations.,Positive,0.8828275799751282
+wonderful experience. wonderful experience. average product.,Positive,0.9821684956550598
+excellent quality. five stars. works as expected.,Positive,0.9708396792411804
+decent for the price. highly recommend.,Positive,0.9679401516914368
+love this product. five stars. met expectations.,Positive,0.985842764377594
+customer service was bad. bad experience.,Negative,0.9340804219245911
+neither good nor bad. love this product.,Positive,0.9788739085197449
+average product. wonderful experience.,Positive,0.9655566215515137
+amazing features. easy to use.,Positive,0.9849564433097839
+highly recommend. very satisfied. works as expected.,Positive,0.9805788397789001
+bad experience. waste of money.,Negative,0.9304426908493042
+amazing features. great value.,Positive,0.9792492985725403
+poor quality. bad experience. it's okay.,Negative,0.9010525345802307
+one star. broke easily.,Negative,0.6056828498840332
+awful. broke easily.,Negative,0.9429267048835754
+fantastic. five stars.,Positive,0.9817376732826233
+easy to use. love this product.,Positive,0.9865432977676392
+amazing features. five stars. met expectations.,Positive,0.9764302372932434
+fantastic. exceeded expectations.,Positive,0.9832431674003601
+poor quality. customer service was bad.,Negative,0.9384785294532776
+some pros and cons. very satisfied.,Positive,0.9233598709106445
+some pros and cons. very disappointed.,Negative,0.8861646056175232
+fantastic. excellent quality.,Positive,0.9784523844718933
+would not recommend. worst purchase.,Negative,0.916609525680542
+poor quality. poor quality. it's okay.,Negative,0.86548912525177
+met expectations. missing features.,Neutral,0.5098363161087036
+awful. poor quality.,Negative,0.939721405506134
+highly recommend. highly recommend.,Positive,0.9707698822021484
+worst purchase. customer service was bad. met expectations.,Negative,0.9463703632354736
+wonderful experience. works perfectly. neither good nor bad.,Positive,0.9851540923118591
+great value. easy to use. average product.,Positive,0.9595726132392883
+awful. missing features.,Negative,0.9259169697761536
+wonderful experience. very satisfied. it's okay.,Positive,0.9877305626869202
+best purchase ever. wonderful experience.,Positive,0.9816477298736572
+highly recommend. five stars. it's okay.,Positive,0.973578929901123
+decent for the price. highly recommend.,Positive,0.9679402709007263
+worst purchase. does not work.,Negative,0.9400020241737366
+excellent quality. fantastic.,Positive,0.9776294231414795
+would not recommend. customer service was bad. average product.,Negative,0.93206787109375
+very satisfied. five stars.,Positive,0.9748954772949219
+broke easily. missing features.,Negative,0.6583263278007507
+awful. one star. neither good nor bad.,Negative,0.9406274557113647
+some pros and cons. highly recommend.,Positive,0.7422713041305542
+met expectations. amazing features.,Positive,0.9787407517433167
+decent for the price. awful.,Negative,0.9275961518287659
+exceeded expectations. wonderful experience. average product.,Positive,0.9756463170051575
+bad experience. terrible product. met expectations.,Negative,0.9307475686073303
+love this product. works perfectly. nothing special.,Positive,0.9832526445388794
+exceeded expectations. excellent quality.,Positive,0.9692071676254272
+fantastic. exceeded expectations.,Positive,0.9832431674003601
+wonderful experience. highly recommend.,Positive,0.9809659719467163
+terrible product. difficult to use.,Negative,0.948040783405304
+easy to use. best purchase ever.,Positive,0.9830233454704285
+awful. awful.,Negative,0.9277080297470093
+works as expected. customer service was bad.,Negative,0.9260373115539551
+excellent quality. excellent quality.,Positive,0.9564444422721863
+bad experience. missing features. some pros and cons.,Negative,0.9141112565994263
+met expectations. very satisfied.,Positive,0.9624915719032288
+some pros and cons. wonderful experience.,Positive,0.9532989263534546
+some pros and cons. love this product.,Positive,0.9647884368896484
+great value. works perfectly.,Positive,0.9721160531044006
+does not work. one star. works as expected.,Negative,0.8501052856445312
+waste of money. worst purchase.,Negative,0.9372063875198364
+missing features. one star. decent for the price.,Neutral,0.559759259223938
+easy to use. very satisfied.,Positive,0.9791396856307983
+easy to use. exceeded expectations. decent for the price.,Positive,0.9509156346321106
+works perfectly. highly recommend.,Positive,0.9802322387695312
+nothing special. bad experience.,Negative,0.8442955017089844
+best purchase ever. highly recommend.,Positive,0.9768902063369751
+worst purchase. missing features.,Negative,0.9375503659248352
+easy to use. fantastic.,Positive,0.9791560173034668
+highly recommend. highly recommend. met expectations.,Positive,0.975531280040741
+broke easily. bad experience.,Negative,0.9156015515327454
+amazing features. best purchase ever. some pros and cons.,Positive,0.9828038215637207
+love this product. best purchase ever. nothing special.,Positive,0.9840572476387024
+difficult to use. worst purchase.,Negative,0.9443374276161194
+average product. love this product.,Positive,0.9765499234199524
+neither good nor bad. very disappointed.,Negative,0.8943614959716797
+exceeded expectations. best purchase ever. some pros and cons.,Positive,0.9820656180381775
+waste of money. poor quality.,Negative,0.9281527400016785
+five stars. works perfectly.,Positive,0.937393307685852
+would not recommend. does not work.,Negative,0.9097388386726379
+difficult to use. would not recommend.,Negative,0.9252389669418335
+five stars. exceeded expectations.,Positive,0.9671493768692017
+worst purchase. does not work. average product.,Negative,0.9455211758613586
+easy to use. highly recommend. nothing special.,Positive,0.9239479303359985
+amazing features. easy to use.,Positive,0.9849564433097839
+one star. awful.,Negative,0.9434309601783752
+five stars. love this product.,Positive,0.982954204082489
+excellent quality. fantastic.,Positive,0.9776294231414795
+very disappointed. would not recommend.,Negative,0.9193925857543945
+wonderful experience. excellent quality.,Positive,0.9799670577049255
+broke easily. does not work.,Negative,0.8529420495033264
+very disappointed. does not work.,Negative,0.9265879988670349
+love this product. best purchase ever.,Positive,0.9851872324943542
+best purchase ever. very satisfied. neither good nor bad.,Positive,0.9818383455276489
+works perfectly. excellent quality. works as expected.,Positive,0.9684467315673828
+missing features. poor quality. met expectations.,Negative,0.911981463432312
+very disappointed. customer service was bad. works as expected.,Negative,0.932332456111908
+decent for the price. great value.,Positive,0.931564211845398
+would not recommend. bad experience.,Negative,0.91175377368927
+excellent quality. wonderful experience. met expectations.,Positive,0.9825828075408936
+easy to use. works perfectly.,Positive,0.9651274681091309
+excellent quality. exceeded expectations.,Positive,0.9758032560348511
+waste of money. missing features.,Negative,0.8866443037986755
+nothing special. terrible product.,Negative,0.9169216156005859
+highly recommend. highly recommend.,Positive,0.9707698822021484
+bad experience. does not work.,Negative,0.9233028292655945
+easy to use. excellent quality. decent for the price.,Positive,0.9524398446083069
+great value. love this product.,Positive,0.9844522476196289
+poor quality. waste of money.,Negative,0.9237561225891113
+five stars. exceeded expectations.,Positive,0.9671493768692017
+highly recommend. excellent quality.,Positive,0.9715030193328857
+wonderful experience. very satisfied.,Positive,0.9839025139808655
+awful. missing features.,Negative,0.9259169697761536
+terrible product. worst purchase.,Negative,0.9346452951431274
+easy to use. excellent quality.,Positive,0.9648915529251099
+does not work. waste of money.,Negative,0.9186010956764221
+missing features. difficult to use.,Negative,0.8960479497909546
+fantastic. love this product.,Positive,0.9838608503341675
+highly recommend. exceeded expectations.,Positive,0.9739646911621094
+decent for the price. very disappointed.,Negative,0.9126358032226562
+awful. awful.,Negative,0.9277080297470093
+would not recommend. customer service was bad. some pros and cons.,Negative,0.9274930357933044
+worst purchase. waste of money. could be better.,Negative,0.9425223469734192
+one star. poor quality. it's okay.,Negative,0.8861125707626343
+broke easily. customer service was bad.,Negative,0.9363270998001099
+would not recommend. waste of money.,Negative,0.8992111086845398
+neither good nor bad. one star.,Positive,0.7581073641777039
+customer service was bad. waste of money.,Negative,0.9439635872840881
+exceeded expectations. amazing features.,Positive,0.9824437499046326
+great value. highly recommend.,Positive,0.9745389223098755
+decent for the price. awful.,Negative,0.9275961518287659
+neither good nor bad. missing features.,Negative,0.5305356383323669
+fantastic. love this product.,Positive,0.9838608503341675
+works as expected. best purchase ever.,Positive,0.9834976196289062
+waste of money. customer service was bad.,Negative,0.9434789419174194
+some pros and cons. very disappointed.,Negative,0.8861646056175232
+one star. terrible product. some pros and cons.,Negative,0.9393894672393799
+does not work. difficult to use.,Negative,0.9272664785385132
+nothing special. awful.,Negative,0.8920213580131531
+met expectations. waste of money.,Negative,0.8166400790214539
+bad experience. would not recommend.,Negative,0.9199784994125366
+fantastic. great value.,Positive,0.9789336919784546
+excellent quality. works perfectly. works as expected.,Positive,0.9506286978721619
+bad experience. one star.,Negative,0.9271318316459656
+wonderful experience. highly recommend. it's okay.,Positive,0.9879214763641357
+terrible product. broke easily.,Negative,0.9416812658309937
+it's okay. would not recommend.,Negative,0.5153895020484924
+decent for the price. wonderful experience.,Positive,0.9801969528198242
+terrible product. customer service was bad.,Negative,0.9477148652076721
+works perfectly. best purchase ever.,Positive,0.9823655486106873
+great value. best purchase ever.,Positive,0.9788482189178467
+easy to use. easy to use.,Positive,0.9020520448684692
+customer service was bad. one star. some pros and cons.,Negative,0.9330058693885803
+fantastic. five stars. met expectations.,Positive,0.984112560749054
+fantastic. best purchase ever. met expectations.,Positive,0.9849578142166138
+one star. missing features.,Negative,0.5725322365760803
+some pros and cons. excellent quality.,Positive,0.7609171867370605
+poor quality. awful.,Negative,0.9356381297111511
+fantastic. amazing features.,Positive,0.9820507764816284
+easy to use. best purchase ever. it's okay.,Positive,0.9820159673690796
+some pros and cons. love this product.,Positive,0.9647884368896484
+missing features. difficult to use.,Negative,0.8960479497909546
+bad experience. poor quality.,Negative,0.9209859371185303
+it's okay. very disappointed.,Negative,0.7884095311164856
+poor quality. very disappointed.,Negative,0.9266284704208374
+does not work. bad experience.,Negative,0.9274269342422485
+works perfectly. works perfectly.,Positive,0.9313842058181763
+highly recommend. highly recommend.,Positive,0.9707698822021484
+amazing features. fantastic.,Positive,0.979459822177887
+missing features. awful.,Negative,0.9104070663452148
+very satisfied. easy to use.,Positive,0.981262743473053
+does not work. waste of money.,Negative,0.9186010956764221
+five stars. amazing features.,Positive,0.977318286895752
+fantastic. excellent quality. nothing special.,Positive,0.9553345441818237
+wonderful experience. works perfectly.,Positive,0.9860959649085999
+neither good nor bad. great value.,Positive,0.8808146119117737
+very satisfied. works perfectly.,Positive,0.981231153011322
+love this product. wonderful experience.,Positive,0.9848904013633728
+five stars. very satisfied.,Positive,0.9736080765724182
+works as expected. missing features.,Neutral,0.5063558220863342
+great value. works perfectly. some pros and cons.,Positive,0.9139788150787354
+five stars. five stars.,Neutral,0.5434884428977966
+awful. poor quality.,Negative,0.9397214651107788
+five stars. fantastic. it's okay.,Positive,0.9738255143165588
+amazing features. works perfectly.,Positive,0.9827297925949097
+very disappointed. terrible product.,Negative,0.9316170811653137
+nothing special. poor quality.,Negative,0.8770893812179565
+one star. difficult to use. nothing special.,Negative,0.9022951126098633
+works perfectly. highly recommend.,Positive,0.9802322387695312
+great value. highly recommend.,Positive,0.9745389223098755
+works perfectly. five stars.,Positive,0.9681842923164368
+broke easily. broke easily.,Negative,0.7231613397598267
+nothing special. works perfectly.,Positive,0.6387143731117249
+could be better. worst purchase.,Negative,0.8620157241821289
+does not work. missing features.,Negative,0.9010792374610901
+fantastic. very satisfied. nothing special.,Positive,0.9792018532752991
+awful. would not recommend.,Negative,0.9325792193412781
+some pros and cons. highly recommend.,Positive,0.7422717213630676
+easy to use. wonderful experience.,Positive,0.9838539958000183
+excellent quality. great value.,Positive,0.9611948728561401
+love this product. great value. some pros and cons.,Positive,0.980991780757904
+fantastic. love this product. neither good nor bad.,Positive,0.9865951538085938
+amazing features. works perfectly.,Positive,0.9827297925949097
+highly recommend. amazing features.,Positive,0.9772198796272278
+five stars. wonderful experience.,Positive,0.9834466576576233
+exceeded expectations. easy to use.,Positive,0.8632807731628418
+one star. very disappointed. could be better.,Negative,0.9332044124603271
+it's okay. customer service was bad.,Negative,0.858540415763855
+met expectations. terrible product.,Negative,0.9292020797729492
+neither good nor bad. terrible product.,Negative,0.9218761920928955
+missing features. missing features.,Negative,0.6809598207473755
+difficult to use. difficult to use.,Negative,0.8242955207824707
+wonderful experience. love this product.,Positive,0.9832773208618164
+decent for the price. wonderful experience.,Positive,0.9801969528198242
+one star. worst purchase.,Negative,0.9376009702682495
+customer service was bad. bad experience.,Negative,0.9340804219245911
+poor quality. would not recommend.,Negative,0.9235625863075256
+fantastic. highly recommend.,Positive,0.978394091129303
+easy to use. excellent quality.,Positive,0.9648915529251099
+customer service was bad. poor quality. some pros and cons.,Negative,0.9370915293693542
+very disappointed. broke easily.,Negative,0.9111156463623047
+fantastic. excellent quality. works as expected.,Positive,0.982300877571106
+decent for the price. missing features.,Neutral,0.5037243366241455
+broke easily. poor quality.,Negative,0.9130734801292419
+five stars. five stars.,Neutral,0.5434882044792175
+some pros and cons. fantastic.,Positive,0.7968260049819946
+nothing special. fantastic.,Neutral,0.46172547340393066
+would not recommend. waste of money.,Negative,0.8992111086845398
+worst purchase. one star.,Negative,0.9364019632339478
+it's okay. great value.,Positive,0.9409598112106323
+very disappointed. terrible product. it's okay.,Negative,0.9342090487480164
+fantastic. exceeded expectations.,Positive,0.9832431674003601
+very satisfied. exceeded expectations.,Positive,0.9786421060562134
+broke easily. bad experience.,Negative,0.9156015515327454
+one star. waste of money.,Negative,0.8808355331420898
+wonderful experience. wonderful experience.,Positive,0.9860584139823914
+highly recommend. great value. it's okay.,Positive,0.9780707955360413
+easy to use. works perfectly.,Positive,0.9651274681091309
+waste of money. customer service was bad.,Negative,0.9434789419174194
+highly recommend. works perfectly. could be better.,Positive,0.9751906991004944
+excellent quality. exceeded expectations. it's okay.,Positive,0.9708526730537415
+met expectations. worst purchase.,Negative,0.9188191294670105
+decent for the price. highly recommend.,Positive,0.9679402709007263
+met expectations. one star.,Positive,0.5917626023292542
+love this product. fantastic. met expectations.,Positive,0.9872087836265564
+one star. one star.,Positive,0.5330091118812561
+customer service was bad. awful.,Negative,0.944021463394165
+average product. waste of money.,Negative,0.9263248443603516
+nothing special. does not work.,Negative,0.8082473874092102
+terrible product. terrible product.,Negative,0.9411554336547852
+neither good nor bad. very satisfied.,Positive,0.9526671767234802
+best purchase ever. best purchase ever.,Positive,0.9841879606246948
+fantastic. works perfectly. some pros and cons.,Positive,0.957542359828949
+could be better. easy to use.,Positive,0.746070146560669
+decent for the price. waste of money.,Negative,0.8703656792640686
+amazing features. love this product.,Positive,0.9846200942993164
+would not recommend. customer service was bad. works as expected.,Negative,0.923891544342041
+average product. works perfectly.,Positive,0.8833005428314209
+neither good nor bad. one star.,Positive,0.7581073641777039
+wonderful experience. fantastic. average product.,Positive,0.9803572297096252
+decent for the price. terrible product.,Negative,0.938003659248352
+does not work. waste of money.,Negative,0.9186010956764221
+customer service was bad. worst purchase.,Negative,0.9435514211654663
+excellent quality. five stars. decent for the price.,Positive,0.9663497805595398
+fantastic. excellent quality.,Positive,0.9784523844718933
+broke easily. missing features.,Negative,0.6583263278007507
+poor quality. very disappointed.,Negative,0.9266284704208374
+one star. missing features. some pros and cons.,Negative,0.6247228384017944
+broke easily. poor quality.,Negative,0.9130734801292419
+works perfectly. love this product.,Positive,0.9868533611297607
+best purchase ever. easy to use.,Positive,0.9812871813774109
+awful. difficult to use. neither good nor bad.,Negative,0.9493661522865295
+love this product. fantastic.,Positive,0.9850625991821289
+missing features. waste of money.,Negative,0.8696597218513489
+met expectations. one star.,Positive,0.5917626023292542
+poor quality. customer service was bad.,Negative,0.9384785294532776
+poor quality. waste of money.,Negative,0.9237561225891113
+broke easily. very disappointed.,Negative,0.9115734696388245
+bad experience. poor quality.,Negative,0.9209859371185303
+very satisfied. five stars. could be better.,Positive,0.9756395220756531
+broke easily. does not work.,Negative,0.8529420495033264
+waste of money. worst purchase. decent for the price.,Negative,0.9306407570838928
+worst purchase. does not work.,Negative,0.9400020241737366
+bad experience. broke easily.,Negative,0.9253214597702026
+terrible product. would not recommend.,Negative,0.9326108694076538
+waste of money. worst purchase.,Negative,0.9372063875198364
+difficult to use. waste of money.,Negative,0.902033269405365
+one star. broke easily.,Negative,0.6056828498840332
+exceeded expectations. fantastic.,Positive,0.977837860584259
+would not recommend. awful. some pros and cons.,Negative,0.9244905114173889
+wonderful experience. five stars.,Positive,0.9821494221687317
+missing features. difficult to use.,Negative,0.8960479497909546
+five stars. very satisfied.,Positive,0.9736079573631287
+some pros and cons. worst purchase.,Negative,0.8957503437995911
+decent for the price. would not recommend.,Negative,0.7868829965591431
+highly recommend. very satisfied. some pros and cons.,Positive,0.9730614423751831
+would not recommend. would not recommend. could be better.,Negative,0.7973203063011169
+bad experience. worst purchase.,Negative,0.929233729839325
+wonderful experience. works perfectly. could be better.,Positive,0.9845371246337891
+exceeded expectations. wonderful experience.,Positive,0.9851371049880981
+highly recommend. works perfectly.,Positive,0.9728494882583618
+decent for the price. works perfectly.,Positive,0.9247342348098755
+one star. does not work.,Negative,0.8638407588005066
+exceeded expectations. great value.,Positive,0.9684200882911682
+would not recommend. customer service was bad.,Negative,0.9285644888877869
+poor quality. very disappointed.,Negative,0.9266284704208374
+highly recommend. great value.,Positive,0.9712139368057251
+best purchase ever. five stars. neither good nor bad.,Positive,0.9784973859786987
+works as expected. bad experience.,Negative,0.9140984416007996
+awful. difficult to use.,Negative,0.9505633115768433
+neither good nor bad. highly recommend.,Positive,0.9519398212432861
+works perfectly. love this product.,Positive,0.9868533611297607
+would not recommend. bad experience.,Negative,0.91175377368927
+it's okay. wonderful experience.,Positive,0.9794917106628418
+exceeded expectations. exceeded expectations.,Neutral,0.5695573687553406
+very satisfied. excellent quality.,Positive,0.9774245023727417
+broke easily. awful.,Negative,0.9311348795890808
+neither good nor bad. difficult to use.,Negative,0.8363474011421204
+would not recommend. difficult to use.,Negative,0.9146804213523865
+does not work. difficult to use. some pros and cons.,Negative,0.9163256883621216
+it's okay. fantastic.,Positive,0.9720935225486755
+could be better. does not work.,Negative,0.8619657158851624
+waste of money. awful. decent for the price.,Negative,0.9339215755462646
+amazing features. five stars.,Positive,0.9765874743461609
+easy to use. easy to use.,Positive,0.9020520448684692
+works perfectly. very satisfied.,Positive,0.982891321182251
+highly recommend. amazing features.,Positive,0.9772198796272278
+waste of money. missing features. works as expected.,Negative,0.8876941204071045
+awful. very disappointed.,Negative,0.9387320280075073
+easy to use. best purchase ever.,Positive,0.9830233454704285
+met expectations. highly recommend.,Positive,0.9644349813461304
+love this product. love this product.,Positive,0.9875922799110413
+could be better. easy to use.,Positive,0.746070146560669
+neither good nor bad. missing features.,Negative,0.5305356383323669
+missing features. bad experience. nothing special.,Negative,0.8927600383758545
+love this product. five stars.,Positive,0.9834192991256714
+highly recommend. highly recommend.,Positive,0.9707698822021484
+it's okay. bad experience.,Negative,0.5360316634178162
+works perfectly. great value.,Positive,0.9776526689529419
+works as expected. exceeded expectations.,Positive,0.8985068202018738
+nothing special. poor quality.,Negative,0.877089262008667
+could be better. poor quality.,Negative,0.8886457681655884
+could be better. love this product.,Positive,0.9781282544136047
+five stars. love this product.,Positive,0.982954204082489
+very satisfied. fantastic.,Positive,0.9830579161643982
+waste of money. broke easily. neither good nor bad.,Negative,0.87904953956604
+very satisfied. easy to use.,Positive,0.981262743473053
+could be better. best purchase ever.,Positive,0.9806761741638184
+customer service was bad. bad experience.,Negative,0.9340804219245911
+customer service was bad. missing features.,Negative,0.9366458654403687
+one star. difficult to use. average product.,Negative,0.9419946074485779
+one star. awful.,Negative,0.9434309601783752
+broke easily. bad experience.,Negative,0.9156015515327454
+five stars. works perfectly.,Positive,0.937393307685852
+broke easily. worst purchase.,Negative,0.9323685169219971
+one star. poor quality.,Negative,0.9310132265090942
+waste of money. broke easily.,Negative,0.9005494117736816
+amazing features. wonderful experience.,Positive,0.9823375940322876
+terrible product. missing features.,Negative,0.944889485836029
+bad experience. customer service was bad. met expectations.,Negative,0.9362432956695557
+poor quality. does not work.,Negative,0.9311368465423584
+highly recommend. wonderful experience.,Positive,0.9782857894897461
+it's okay. missing features.,Neutral,0.6557179689407349
+awful. difficult to use. neither good nor bad.,Negative,0.9493661522865295
+excellent quality. fantastic.,Positive,0.9776294231414795
+terrible product. broke easily.,Negative,0.9416812062263489
+does not work. would not recommend.,Negative,0.920951783657074
+fantastic. works perfectly.,Positive,0.9837234020233154
+missing features. difficult to use. it's okay.,Negative,0.8006367087364197
+exceeded expectations. great value.,Positive,0.9684200882911682
+would not recommend. poor quality.,Negative,0.9083611369132996
+very satisfied. exceeded expectations.,Positive,0.9786421060562134
+easy to use. wonderful experience.,Positive,0.9838539958000183
+easy to use. works perfectly.,Positive,0.9651274681091309
+very disappointed. waste of money. decent for the price.,Negative,0.9229555130004883
+poor quality. difficult to use.,Negative,0.935468316078186
+love this product. highly recommend.,Positive,0.9825996160507202
+decent for the price. worst purchase.,Negative,0.9242866039276123
+easy to use. great value.,Positive,0.9653244614601135
+terrible product. waste of money.,Negative,0.9460489153862
+met expectations. waste of money.,Negative,0.8166398406028748
+does not work. customer service was bad.,Negative,0.9419577717781067
+bad experience. customer service was bad.,Negative,0.9358574748039246
+great value. very satisfied.,Positive,0.9800713658332825
+customer service was bad. worst purchase.,Negative,0.9435515403747559
+amazing features. best purchase ever.,Positive,0.9832178354263306
+some pros and cons. love this product.,Positive,0.9647884368896484
+it's okay. excellent quality.,Positive,0.9451033473014832
+it's okay. wonderful experience.,Positive,0.9794917106628418
+wonderful experience. great value.,Positive,0.9798697233200073
+decent for the price. customer service was bad.,Negative,0.9247692823410034
+bad experience. does not work.,Negative,0.923302948474884
+amazing features. very satisfied.,Positive,0.9818275570869446
+missing features. does not work. met expectations.,Negative,0.8914700150489807
+poor quality. missing features.,Negative,0.9103782176971436
+some pros and cons. does not work.,Negative,0.8146676421165466
+one star. would not recommend.,Negative,0.9120563268661499
+wonderful experience. very satisfied.,Positive,0.9839025139808655
+works perfectly. works perfectly.,Positive,0.9313842058181763
+average product. terrible product.,Negative,0.9296972155570984
+poor quality. bad experience. some pros and cons.,Negative,0.9193017482757568
+wonderful experience. easy to use.,Positive,0.9847859740257263
+works perfectly. five stars.,Positive,0.9681841731071472
+love this product. easy to use.,Positive,0.9854766726493835
+great value. great value.,Positive,0.8764751553535461
+bad experience. broke easily. could be better.,Negative,0.9293767809867859
+average product. five stars.,Neutral,0.3994230628013611
+terrible product. worst purchase.,Negative,0.9346452951431274
+love this product. very satisfied.,Positive,0.9856326580047607
+it's okay. one star.,Positive,0.7871257662773132
+easy to use. great value.,Positive,0.9653244614601135
+love this product. five stars. decent for the price.,Positive,0.9855177402496338
+great value. five stars. average product.,Positive,0.9411766529083252
+awful. bad experience.,Negative,0.9406593441963196
+bad experience. very disappointed. nothing special.,Negative,0.9221880435943604
+wonderful experience. best purchase ever. works as expected.,Positive,0.985995352268219
+exceeded expectations. great value.,Positive,0.9684200882911682
+works as expected. fantastic.,Positive,0.9798173308372498
+difficult to use. broke easily. works as expected.,Negative,0.6612216830253601
+amazing features. highly recommend.,Positive,0.9805387258529663
+some pros and cons. works perfectly.,Positive,0.5933696031570435
+decent for the price. waste of money.,Negative,0.8703656792640686
+nothing special. worst purchase.,Negative,0.9129593372344971
+exceeded expectations. wonderful experience.,Positive,0.9851371049880981
+difficult to use. missing features.,Negative,0.8791077733039856
+very disappointed. does not work.,Negative,0.9265881180763245
+five stars. very satisfied.,Positive,0.9736080765724182
+poor quality. would not recommend.,Negative,0.9235625863075256
+one star. awful.,Negative,0.9434309601783752
+average product. very disappointed.,Negative,0.9295980334281921
+broke easily. awful. met expectations.,Negative,0.9078376889228821
+highly recommend. highly recommend. neither good nor bad.,Positive,0.9609020948410034
+great value. easy to use. some pros and cons.,Positive,0.9264295101165771
+it's okay. difficult to use.,Neutral,0.5519737005233765
+would not recommend. one star. neither good nor bad.,Negative,0.5371196269989014
+best purchase ever. wonderful experience. average product.,Positive,0.9773064255714417
+poor quality. very disappointed.,Negative,0.9266284704208374
+amazing features. fantastic. could be better.,Positive,0.9792153835296631
+neither good nor bad. highly recommend.,Positive,0.9519399404525757
+great value. best purchase ever.,Positive,0.9788482189178467
+broke easily. one star.,Neutral,0.612832248210907
+fantastic. works perfectly. neither good nor bad.,Positive,0.9765859842300415
+missing features. difficult to use. could be better.,Negative,0.9229503273963928
+poor quality. does not work.,Negative,0.9311368465423584
+difficult to use. bad experience.,Negative,0.9313432574272156
+bad experience. missing features.,Negative,0.9188380241394043
+amazing features. works perfectly.,Positive,0.9827297925949097
+fantastic. wonderful experience.,Positive,0.9848031997680664
+missing features. one star.,Neutral,0.587735116481781
+amazing features. wonderful experience.,Positive,0.9823375940322876
+five stars. works perfectly. average product.,Positive,0.891171395778656
+works perfectly. best purchase ever.,Positive,0.9823655486106873
+decent for the price. amazing features.,Positive,0.9714432954788208
+very disappointed. would not recommend. average product.,Negative,0.93235844373703
+very disappointed. would not recommend.,Negative,0.9193925857543945
+fantastic. excellent quality.,Positive,0.9784523844718933
+it's okay. bad experience.,Negative,0.5360311269760132
+difficult to use. bad experience.,Negative,0.9313432574272156
+great value. great value. it's okay.,Positive,0.9259634017944336
+nothing special. waste of money.,Negative,0.823176920413971
+amazing features. very satisfied.,Positive,0.9818275570869446
+amazing features. five stars.,Positive,0.9765873551368713
+broke easily. customer service was bad.,Negative,0.9363270998001099
+neither good nor bad. love this product.,Positive,0.9788739085197449
+waste of money. awful.,Negative,0.9381407499313354
+very disappointed. awful.,Negative,0.929617166519165
+works as expected. fantastic.,Positive,0.9798173308372498
+works as expected. five stars.,Positive,0.9064221382141113
+worst purchase. terrible product. nothing special.,Negative,0.9301709532737732
+one star. customer service was bad.,Negative,0.942440390586853
+fantastic. love this product.,Positive,0.9838607311248779
+broke easily. missing features. could be better.,Negative,0.8669788241386414
+excellent quality. works perfectly. met expectations.,Positive,0.9683300256729126
+worst purchase. does not work.,Negative,0.9400020241737366
+love this product. works perfectly. decent for the price.,Positive,0.9862856268882751
+easy to use. excellent quality.,Positive,0.9648914337158203
+works perfectly. best purchase ever.,Positive,0.9823655486106873
+wonderful experience. love this product. nothing special.,Positive,0.9843758940696716
+terrible product. broke easily.,Negative,0.9416812062263489
+five stars. works perfectly.,Positive,0.9373934268951416
+nothing special. easy to use.,Neutral,0.6168394088745117
+decent for the price. fantastic.,Positive,0.9643363952636719
+some pros and cons. poor quality.,Negative,0.8676888346672058
+broke easily. one star. neither good nor bad.,Neutral,0.6762181520462036
+bad experience. very disappointed.,Negative,0.9233901500701904
+poor quality. difficult to use. some pros and cons.,Negative,0.9263085126876831
+fantastic. great value.,Positive,0.9789336919784546
+very disappointed. worst purchase.,Negative,0.9307680726051331
+customer service was bad. terrible product.,Negative,0.9438989162445068
+terrible product. customer service was bad.,Negative,0.9477148652076721
+it's okay. fantastic.,Positive,0.972093403339386
+met expectations. easy to use.,Positive,0.7014983892440796
+worst purchase. would not recommend. average product.,Negative,0.9406635761260986
+customer service was bad. customer service was bad. neither good nor bad.,Negative,0.8896126747131348
+works as expected. highly recommend.,Positive,0.9623653888702393
+could be better. wonderful experience.,Positive,0.978046715259552
+does not work. would not recommend.,Negative,0.920951783657074
+one star. customer service was bad. average product.,Negative,0.9430270791053772
+neither good nor bad. fantastic.,Positive,0.9595937132835388
+very satisfied. excellent quality. decent for the price.,Positive,0.978744626045227
+wonderful experience. easy to use.,Positive,0.9847859740257263
+difficult to use. very disappointed. average product.,Negative,0.941909909248352
+very disappointed. awful. works as expected.,Negative,0.9337605834007263
+would not recommend. would not recommend. works as expected.,Negative,0.6760334968566895
+highly recommend. very satisfied.,Positive,0.9777685403823853
+neither good nor bad. excellent quality.,Positive,0.92073655128479
+does not work. bad experience. nothing special.,Negative,0.9192461371421814
+awful. missing features.,Negative,0.9259172081947327
+difficult to use. missing features. works as expected.,Negative,0.8869274854660034
+exceeded expectations. exceeded expectations.,Neutral,0.569557785987854
+excellent quality. five stars. average product.,Positive,0.8775650262832642
+works as expected. great value.,Positive,0.9466812610626221
+some pros and cons. worst purchase.,Negative,0.8957506418228149
+best purchase ever. exceeded expectations.,Positive,0.9791921377182007
+love this product. wonderful experience.,Positive,0.9848904013633728
+highly recommend. five stars. decent for the price.,Positive,0.9734023213386536
+bad experience. waste of money.,Negative,0.9304425716400146
+best purchase ever. great value.,Positive,0.9782811403274536
+some pros and cons. highly recommend.,Positive,0.742271900177002
+bad experience. does not work.,Negative,0.9233028292655945
+highly recommend. very satisfied.,Positive,0.9777685403823853
+very satisfied. highly recommend.,Positive,0.9812192320823669
+would not recommend. poor quality.,Negative,0.9083611369132996
+best purchase ever. highly recommend. average product.,Positive,0.9784197807312012
+easy to use. highly recommend.,Positive,0.9744671583175659
+works as expected. poor quality.,Negative,0.9306222200393677
+average product. love this product.,Positive,0.9765499234199524
+exceeded expectations. easy to use. neither good nor bad.,Positive,0.8242093324661255
+terrible product. terrible product.,Negative,0.9411554336547852
+difficult to use. poor quality.,Negative,0.9333789348602295
+exceeded expectations. fantastic. works as expected.,Positive,0.9802808165550232
+excellent quality. love this product.,Positive,0.9832227826118469
+wonderful experience. best purchase ever.,Positive,0.983445942401886
+waste of money. very disappointed. met expectations.,Negative,0.9238707423210144
+poor quality. worst purchase.,Negative,0.9309725165367126
+best purchase ever. amazing features. nothing special.,Positive,0.9791914820671082
+five stars. highly recommend. average product.,Positive,0.9458306431770325
+one star. waste of money.,Negative,0.8808355331420898
+great value. excellent quality. average product.,Positive,0.9400503635406494
+would not recommend. bad experience. nothing special.,Negative,0.9107151031494141
+would not recommend. poor quality.,Negative,0.9083611369132996
+great value. highly recommend.,Positive,0.9745389223098755
+neither good nor bad. difficult to use.,Negative,0.8363474011421204
+five stars. excellent quality.,Positive,0.9637527465820312
+it's okay. works perfectly.,Positive,0.8883479833602905
+very disappointed. customer service was bad.,Negative,0.9317812919616699
+great value. amazing features.,Positive,0.9781293869018555
+broke easily. missing features.,Negative,0.6583263278007507
+broke easily. difficult to use.,Negative,0.8690469861030579
+works as expected. does not work.,Negative,0.7015071511268616
+terrible product. terrible product.,Negative,0.9411554336547852
+works perfectly. five stars. nothing special.,Positive,0.878087043762207
+highly recommend. works perfectly.,Positive,0.9728494882583618
+some pros and cons. highly recommend.,Positive,0.7422717213630676
+works perfectly. fantastic. works as expected.,Positive,0.9830907583236694
+would not recommend. awful. neither good nor bad.,Negative,0.9249082803726196
+met expectations. does not work.,Negative,0.8201099634170532
+love this product. works perfectly.,Positive,0.9865072965621948
+neither good nor bad. bad experience.,Negative,0.8479160070419312
+very satisfied. five stars.,Positive,0.9748954772949219
+amazing features. wonderful experience.,Positive,0.9823375940322876
+terrible product. difficult to use.,Negative,0.948040783405304
+neither good nor bad. exceeded expectations.,Positive,0.8828275799751282
+bad experience. does not work. works as expected.,Negative,0.9202185869216919
+highly recommend. wonderful experience.,Positive,0.9782857894897461
+very disappointed. would not recommend.,Negative,0.9193925857543945
+terrible product. poor quality. some pros and cons.,Negative,0.944826066493988
+love this product. five stars.,Positive,0.9834192991256714
+broke easily. very disappointed. it's okay.,Negative,0.8079448938369751
+awful. bad experience. nothing special.,Negative,0.9391853213310242
+customer service was bad. missing features.,Negative,0.9366459846496582
+exceeded expectations. exceeded expectations.,Neutral,0.5695584416389465
+best purchase ever. easy to use.,Positive,0.9812871813774109
+nothing special. waste of money.,Negative,0.823176920413971
+best purchase ever. wonderful experience.,Positive,0.9816477298736572
+great value. amazing features.,Positive,0.9781293869018555
+customer service was bad. broke easily.,Negative,0.9446099996566772
+exceeded expectations. great value.,Positive,0.9684200882911682
+works perfectly. easy to use.,Positive,0.9729682207107544
+exceeded expectations. best purchase ever.,Positive,0.984887421131134
+could be better. one star.,Positive,0.7340096235275269
+difficult to use. broke easily.,Negative,0.849521815776825
+love this product. amazing features. met expectations.,Positive,0.9877555966377258
+exceeded expectations. best purchase ever.,Positive,0.984887421131134
+worst purchase. one star. works as expected.,Negative,0.934749960899353
+works perfectly. fantastic. nothing special.,Positive,0.9634842872619629
+wonderful experience. fantastic.,Positive,0.9804736375808716
+wonderful experience. great value. neither good nor bad.,Positive,0.9837992191314697
+terrible product. waste of money.,Negative,0.9460489153862
+awful. awful.,Negative,0.9277080297470093
+one star. worst purchase.,Negative,0.9376009702682495
+very disappointed. waste of money.,Negative,0.9317206740379333
+broke easily. one star. works as expected.,Neutral,0.7001889944076538
+it's okay. amazing features.,Positive,0.9650896191596985
+awful. difficult to use.,Negative,0.9505633115768433
+very satisfied. excellent quality.,Positive,0.9774245023727417
+one star. bad experience. some pros and cons.,Negative,0.9141102433204651
+met expectations. awful.,Negative,0.9203335046768188
+difficult to use. awful.,Negative,0.9423109889030457
+terrible product. does not work.,Negative,0.9404281973838806
+best purchase ever. works perfectly. works as expected.,Positive,0.9819105267524719
+five stars. works perfectly.,Positive,0.937393307685852
+amazing features. amazing features. neither good nor bad.,Positive,0.9781361222267151
+average product. terrible product.,Negative,0.9296972155570984
+fantastic. works perfectly.,Positive,0.9837234020233154
+nothing special. broke easily.,Negative,0.5237078070640564
+worst purchase. awful.,Negative,0.9281050562858582
+great value. very satisfied.,Positive,0.980071485042572
+worst purchase. poor quality.,Negative,0.9351829886436462
+average product. difficult to use.,Negative,0.9344291687011719
+works perfectly. excellent quality.,Positive,0.9782046675682068
+love this product. highly recommend. it's okay.,Positive,0.9861526489257812
+excellent quality. wonderful experience.,Positive,0.9815788269042969
+works as expected. best purchase ever.,Positive,0.9834976196289062
+average product. wonderful experience.,Positive,0.9655566215515137
+exceeded expectations. easy to use.,Positive,0.8632807731628418
+would not recommend. bad experience.,Negative,0.91175377368927
+highly recommend. love this product. works as expected.,Positive,0.9853624105453491
+waste of money. would not recommend.,Negative,0.9239798784255981
+worst purchase. bad experience. could be better.,Negative,0.9370176196098328
+works as expected. worst purchase.,Negative,0.9278610348701477
+great value. best purchase ever.,Positive,0.9788482189178467
+very disappointed. awful.,Negative,0.929617166519165
+great value. easy to use. average product.,Positive,0.9595725536346436
+wonderful experience. excellent quality.,Positive,0.9799670577049255
+worst purchase. does not work.,Negative,0.9400020241737366
+exceeded expectations. five stars. could be better.,Positive,0.9021960496902466
+one star. difficult to use.,Negative,0.9080404043197632
+customer service was bad. does not work.,Negative,0.9388353228569031
+nothing special. love this product.,Positive,0.9537251591682434
+best purchase ever. excellent quality. met expectations.,Positive,0.9774322509765625
+terrible product. customer service was bad.,Negative,0.9477148652076721
+does not work. broke easily.,Negative,0.9048422574996948
+met expectations. customer service was bad.,Negative,0.9230151176452637
+met expectations. missing features.,Neutral,0.5098364949226379
+fantastic. fantastic.,Positive,0.9800946712493896
+could be better. terrible product.,Negative,0.9058717489242554
+decent for the price. would not recommend.,Negative,0.7868831753730774
+love this product. works perfectly.,Positive,0.9865072965621948
+works as expected. bad experience.,Negative,0.9140984416007996
+easy to use. excellent quality.,Positive,0.9648914337158203
+would not recommend. difficult to use. works as expected.,Negative,0.9048414826393127
+wonderful experience. highly recommend.,Positive,0.9809658527374268
+one star. customer service was bad.,Negative,0.942440390586853
+difficult to use. bad experience.,Negative,0.9313432574272156
+some pros and cons. bad experience.,Negative,0.8846054077148438
+works perfectly. great value.,Positive,0.9776526689529419
+worst purchase. difficult to use.,Negative,0.9473739862442017
+love this product. easy to use.,Positive,0.9854766726493835
+works perfectly. amazing features.,Positive,0.9829882979393005
+poor quality. missing features.,Negative,0.9103782176971436
+customer service was bad. terrible product.,Negative,0.9438989162445068
+would not recommend. would not recommend. it's okay.,Negative,0.5134376883506775
+five stars. very satisfied. average product.,Positive,0.946815550327301
+terrible product. bad experience. met expectations.,Negative,0.939651370048523
+wonderful experience. best purchase ever.,Positive,0.983445942401886
+does not work. difficult to use.,Negative,0.9272664785385132
+customer service was bad. terrible product.,Negative,0.9438989162445068
+some pros and cons. five stars.,Neutral,0.5130715370178223
+very disappointed. would not recommend.,Negative,0.9193925857543945
+difficult to use. does not work.,Negative,0.9197728633880615
+customer service was bad. bad experience.,Negative,0.9340804219245911
+excellent quality. love this product.,Positive,0.9832227826118469
+customer service was bad. difficult to use. could be better.,Negative,0.9433884024620056
+works as expected. terrible product.,Negative,0.9378381967544556
+great value. love this product.,Positive,0.9844522476196289
+met expectations. five stars.,Positive,0.8826636672019958
+broke easily. terrible product.,Negative,0.9371665716171265
+excellent quality. wonderful experience.,Positive,0.9815788269042969
+it's okay. very disappointed.,Negative,0.7884095311164856
+waste of money. worst purchase. average product.,Negative,0.9453929662704468
+best purchase ever. wonderful experience.,Positive,0.9816477298736572
+highly recommend. wonderful experience.,Positive,0.9782857894897461
+neither good nor bad. difficult to use.,Negative,0.8363474011421204
+works perfectly. easy to use.,Positive,0.9729682207107544
+difficult to use. does not work.,Negative,0.9197728633880615
+terrible product. bad experience.,Negative,0.9370627403259277
+would not recommend. waste of money.,Negative,0.8992111086845398
+worst purchase. does not work.,Negative,0.9400020241737366
+customer service was bad. broke easily.,Negative,0.9446099996566772
+missing features. difficult to use.,Negative,0.8960480093955994
+missing features. waste of money.,Negative,0.8696599006652832
+fantastic. fantastic.,Positive,0.9800946712493896
+amazing features. five stars. some pros and cons.,Positive,0.9609182476997375
+excellent quality. fantastic.,Positive,0.9776294231414795
+wonderful experience. fantastic. it's okay.,Positive,0.9872761368751526
+bad experience. poor quality. it's okay.,Negative,0.9080820679664612
+fantastic. fantastic.,Positive,0.9800946712493896
+exceeded expectations. five stars. works as expected.,Positive,0.911886990070343
+worst purchase. worst purchase. it's okay.,Negative,0.913725733757019
+terrible product. worst purchase.,Negative,0.9346452951431274
+fantastic. works perfectly.,Positive,0.9837234020233154
+would not recommend. waste of money.,Negative,0.8992111086845398
+love this product. amazing features.,Positive,0.9864571690559387
+would not recommend. difficult to use.,Negative,0.9146804213523865
+neither good nor bad. amazing features.,Positive,0.9625473618507385
+highly recommend. wonderful experience.,Positive,0.9782857894897461
+one star. worst purchase.,Negative,0.9376009702682495
+five stars. highly recommend. some pros and cons.,Positive,0.8997825384140015
+excellent quality. highly recommend.,Positive,0.9747685790061951
+nothing special. works perfectly.,Positive,0.6387143731117249
+would not recommend. very disappointed. nothing special.,Negative,0.9046541452407837
+works as expected. exceeded expectations.,Positive,0.8985066413879395
+exceeded expectations. great value. works as expected.,Positive,0.9540166258811951
+waste of money. missing features.,Negative,0.8866443037986755
+fantastic. great value.,Positive,0.9789336919784546
+customer service was bad. difficult to use.,Negative,0.9431668519973755
+best purchase ever. best purchase ever. works as expected.,Positive,0.9847481846809387
+average product. very satisfied.,Positive,0.9556576609611511
+does not work. poor quality. average product.,Negative,0.9403240084648132
+amazing features. five stars.,Positive,0.9765873551368713
+waste of money. would not recommend. nothing special.,Negative,0.9117181301116943
+very satisfied. excellent quality. decent for the price.,Positive,0.978744626045227
+highly recommend. fantastic.,Positive,0.9696972966194153
+very disappointed. very disappointed.,Negative,0.9260621666908264
+very satisfied. love this product.,Positive,0.9858849048614502
+met expectations. customer service was bad.,Negative,0.9230151176452637
+one star. worst purchase. some pros and cons.,Negative,0.9090700149536133
+exceeded expectations. easy to use. nothing special.,Positive,0.6662362217903137
+excellent quality. love this product.,Positive,0.9832227826118469
+fantastic. fantastic. decent for the price.,Positive,0.982772946357727
+poor quality. worst purchase.,Negative,0.9309725165367126
+would not recommend. worst purchase.,Negative,0.916609525680542
+exceeded expectations. very satisfied. could be better.,Positive,0.9740743041038513
+missing features. waste of money. met expectations.,Negative,0.8802095055580139
+best purchase ever. fantastic.,Positive,0.9775585532188416
+one star. poor quality.,Negative,0.9310132265090942
+best purchase ever. fantastic.,Positive,0.9775585532188416
+great value. exceeded expectations.,Positive,0.9769788384437561
+excellent quality. best purchase ever.,Positive,0.9806430339813232
+love this product. highly recommend. decent for the price.,Positive,0.9865236878395081
+fantastic. wonderful experience. nothing special.,Positive,0.9814784526824951
+five stars. best purchase ever.,Positive,0.9801827669143677
+waste of money. very disappointed.,Negative,0.9253210425376892
+excellent quality. wonderful experience.,Positive,0.9815789461135864
+best purchase ever. very satisfied. it's okay.,Positive,0.9861830472946167
+broke easily. missing features. decent for the price.,Neutral,0.4974520206451416
+best purchase ever. five stars.,Positive,0.9765543937683105
+one star. poor quality.,Negative,0.9310132265090942
+average product. customer service was bad.,Negative,0.9426034688949585
+bad experience. poor quality.,Negative,0.9209859371185303
+difficult to use. worst purchase. could be better.,Negative,0.9441520571708679
+it's okay. easy to use.,Positive,0.9017384052276611
+easy to use. excellent quality.,Positive,0.9648914337158203
+it's okay. missing features.,Neutral,0.6557178497314453
+five stars. highly recommend.,Positive,0.9712585806846619
+difficult to use. waste of money.,Negative,0.902033269405365
+great value. highly recommend. decent for the price.,Positive,0.9789509177207947
+works perfectly. wonderful experience. nothing special.,Positive,0.9798455834388733
+wonderful experience. five stars. decent for the price.,Positive,0.9860827326774597
+great value. easy to use.,Positive,0.9721921682357788
+waste of money. worst purchase.,Negative,0.9372063875198364
+could be better. love this product.,Positive,0.9781282544136047
+great value. best purchase ever. nothing special.,Positive,0.9767838716506958
+highly recommend. excellent quality. could be better.,Positive,0.9688652753829956
+one star. worst purchase.,Negative,0.9376009702682495
+waste of money. one star.,Negative,0.9155554175376892
+five stars. great value. average product.,Positive,0.9164153933525085
+terrible product. terrible product.,Negative,0.9411554336547852
+does not work. missing features.,Negative,0.9010792374610901
+wonderful experience. excellent quality.,Positive,0.9799670577049255
+neither good nor bad. bad experience.,Negative,0.8479159474372864
+difficult to use. very disappointed. nothing special.,Negative,0.9348147511482239
+customer service was bad. would not recommend.,Negative,0.9354708790779114
+easy to use. highly recommend. nothing special.,Positive,0.9239479303359985
+would not recommend. awful. nothing special.,Negative,0.9156632423400879
+works as expected. terrible product.,Negative,0.9378381967544556
+it's okay. five stars.,Positive,0.902573823928833
+bad experience. does not work.,Negative,0.9233028292655945
+it's okay. wonderful experience.,Positive,0.9794917106628418
+broke easily. customer service was bad. met expectations.,Negative,0.9280127286911011
+broke easily. difficult to use.,Negative,0.8690469861030579
+customer service was bad. poor quality.,Negative,0.9386504292488098
+missing features. broke easily.,Negative,0.7650555372238159
+nothing special. missing features.,Negative,0.5855254530906677
+very satisfied. easy to use. met expectations.,Positive,0.9777921438217163
+amazing features. five stars.,Positive,0.9765874743461609
+five stars. five stars.,Neutral,0.543488621711731
+worst purchase. terrible product. some pros and cons.,Negative,0.9441498517990112
+average product. worst purchase.,Negative,0.934020459651947
+met expectations. poor quality.,Negative,0.8889527320861816
+works as expected. five stars.,Positive,0.9064221382141113
+fantastic. excellent quality. neither good nor bad.,Positive,0.9801509380340576
+waste of money. worst purchase. works as expected.,Negative,0.9318966865539551
