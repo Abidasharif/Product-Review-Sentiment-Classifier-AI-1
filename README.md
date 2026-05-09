@@ -1,1 +1,9 @@
-# Product Review Sentiment Classifier_Task-1_TC-INT-20260430-123
+Task Title: Product Review Sentiment Classifier
+
+Task ID: AI-1
+
+Model: RoBERTa (HuggingFace)
+
+Efficiency Strategy: GPU Batch Processing (Size: 32)
+
+Accuracy: 79.60%
